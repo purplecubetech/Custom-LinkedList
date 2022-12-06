@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F7F10AF5-ADEF-4627-81B9-AF7DEF7EA0B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task Two/EmptyInterface.cs">
+    <Files>
+      <File FileName="Task Two/Queue.cs" Line="48" Column="1" />
+      <File FileName="Task Two/Stack.cs" Line="72" Column="35" />
+      <File FileName="Task Two/LinkedList.cs" Line="17" Column="6" />
+      <File FileName="Task Two/Program.cs" Line="42" Column="1" />
+      <File FileName="Task Two/IExample.cs" Line="8" Column="20" />
+      <File FileName="Task Two/Example.cs" Line="23" Column="3" />
+      <File FileName="Task Two/EmptyInterface.cs" Line="10" Column="1" />
+      <File FileName="Task Two/TestExample.cs" Line="12" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task Two" expanded="True">
+            <Node name="Task Two" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>head</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task_220Two PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Documents/SQ010/Task Two/Task Two/Program.cs" relfile="Task Two/Program.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

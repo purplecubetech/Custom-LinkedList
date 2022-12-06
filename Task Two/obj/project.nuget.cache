@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lT4JqATD2yCnBQTkBYsz9diyLBl4ff4JB8kwYID3D4H/+o6aLEyleXAIjc0Y0j4njyhyhUKsyPx5iKynXA7IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Dropbox\\PC\\Desktop\\CustomLinkedList\\Custom-LinkedList\\Task Two\\ComplexDS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

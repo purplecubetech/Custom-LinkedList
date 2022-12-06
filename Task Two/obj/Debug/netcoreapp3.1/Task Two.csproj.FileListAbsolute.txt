@@ -1,0 +1,39 @@
+C:/Users/craft/source/repos/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.exe
+C:/Users/craft/source/repos/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.deps.json
+C:/Users/craft/source/repos/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.runtimeconfig.json
+C:/Users/craft/source/repos/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.runtimeconfig.dev.json
+C:/Users/craft/source/repos/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.dll
+C:/Users/craft/source/repos/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.pdb
+C:/Users/craft/source/repos/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.csprojAssemblyReference.cache
+C:/Users/craft/source/repos/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.AssemblyInfoInputs.cache
+C:/Users/craft/source/repos/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.AssemblyInfo.cs
+C:/Users/craft/source/repos/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.dll
+C:/Users/craft/source/repos/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.pdb
+/Users/mac/Documents/SQ010/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two
+/Users/mac/Documents/SQ010/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.deps.json
+/Users/mac/Documents/SQ010/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.runtimeconfig.json
+/Users/mac/Documents/SQ010/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.runtimeconfig.dev.json
+/Users/mac/Documents/SQ010/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.dll
+/Users/mac/Documents/SQ010/Task Two/Task Two/bin/Debug/netcoreapp3.1/Task Two.pdb
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.csproj.AssemblyReference.cache
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.AssemblyInfoInputs.cache
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.AssemblyInfo.cs
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.dll
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.pdb
+/Users/mac/Documents/SQ010/Task Two/Task Two/obj/Debug/netcoreapp3.1/Task Two.genruntimeconfig.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\bin\Debug\netcoreapp3.1\Task Two.exe
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\bin\Debug\netcoreapp3.1\Task Two.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\bin\Debug\netcoreapp3.1\Task Two.runtimeconfig.json
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\bin\Debug\netcoreapp3.1\Task Two.runtimeconfig.dev.json
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\bin\Debug\netcoreapp3.1\Task Two.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\bin\Debug\netcoreapp3.1\Task Two.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Two\Task Two\Task Two\obj\Debug\netcoreapp3.1\Task Two.genruntimeconfig.cache
